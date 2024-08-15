@@ -1,5 +1,5 @@
 ```
 (\ /)        ivy zhang
 ( . .)       scheming
-c(")(")      https://notebooks.ivyzhang.me/
+c(")(")      https://ivyzhang.me/
 ```
